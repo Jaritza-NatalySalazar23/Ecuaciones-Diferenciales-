@@ -1,4 +1,4 @@
-%comprobar segundo ejercicio final
+%comprobar primer ejercicio final
 %ingresamos los numeros correspondientes a la matriz 
 S =dsolve ('Dx=2*x+8*y+2','Dy=4*y+16*t', 't');
 
